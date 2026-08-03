@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: 
+
+User-agent: Googlebot
+Disallow: 
+
+Sitemap: https://digitarun.github.io/travelertarun/sitemap.xml
